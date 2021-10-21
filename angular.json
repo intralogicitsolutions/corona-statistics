@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "corona-statistics"
+    }
+  },
+  "defaultProject": "corona-statistics",
+  "cli": {
+    "analytics": false
+  }
 }
